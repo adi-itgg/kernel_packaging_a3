@@ -1,19 +1,14 @@
 ****************************************************
-              ELECTRO KERNEL
-              Get electrified!
+         NEKOHIKIKOMORI KERNEL (Electro)
 *****************************************************
- Chipset   : Snapdragon662 (Bengal)     
+ Chipset   : Snapdragon 662 (Bengal)
  Device    : (Juice/Chime/Citrus/Lime)
  Android   : For all Custom Roms based on A11-13
- Developer : Ash (@hac4us on TG)
- Support   : @ashhcafe on TG
 *****************************************************
-           PERFORMANCE AND STABLE KERNEL         
+KERNEL VERSION-4.19.313-NekoHikikomori
 *****************************************************
-KERNEL VERSION-4.19.306
+                  MAIN FEATURES
 *****************************************************
-                  MAIN FEATURES                 
-*****************************************************
- Balance between performance and battery life   
- Compiled kernel with Neutron Clang 18.0.0
+ Balance between performance and battery life
+ KernelSU-Next (v3.2.0-legacy) built-in
 *****************************************************
